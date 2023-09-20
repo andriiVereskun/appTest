@@ -25,5 +25,9 @@ class ViewController: UIViewController {
     func getSettings() {
         
     }
+    
+    func getAllOtherConfiguration() {
+        
+    }
 }
 
