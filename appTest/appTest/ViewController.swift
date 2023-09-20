@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     func addSomething() {
         
     }
+    
+    func configureSomething() {
+        
+    }
 }
 
